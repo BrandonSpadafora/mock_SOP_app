@@ -12,16 +12,18 @@ The SOP Retrieval System is a mock application built with Streamlit to simulate 
 
 ## Getting Started
 1. **Install Streamlit:**
+In your code editor type:
    ```bash
    pip install streamlit
    ```
 
-2. **Run the Application:**
+3. **Run the Application:**
+In your terminal type:
    ```bash
    streamlit run mock_sop_app.py
    ```
 
-3. **Usage:**
+5. **Usage:**
    - Access the application in your browser (default: http://localhost:8501).
    - Type questions in the input bar and click the "Search" button to receive predefined answers.
 
