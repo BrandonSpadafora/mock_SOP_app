@@ -8,7 +8,7 @@ Certainly! Here's a concise README for your `mock_sop_app.py`:
 # SOP Retrieval System
 
 ## Overview
-The SOP Retrieval System is a mock application built with Streamlit to simulate a simplified Standard Operating Procedure (SOP) retrieval system. Users can input questions related to SOPs, and the system responds with predefined answers based on the queries.
+The SOP Retrieval System is a mock application built with Streamlit to simulate a simplified Standard Operating Procedure (SOP) retrieval system. Users can input questions related to SOPs, and the system responds based on the queries.
 
 ## Getting Started
 1. **Install Streamlit:**
