@@ -1,8 +1,5 @@
 # mock_SOP_app
 
-
-Certainly! Here's a concise README for your `mock_sop_app.py`:
-
 ---
 
 # SOP Retrieval System
